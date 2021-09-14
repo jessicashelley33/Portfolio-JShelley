@@ -1,0 +1,94 @@
+@import "about.css";
+@import "body.css";
+@import "contact.css";
+@import "footer.css";
+@import "header.css";
+@import "main.css";
+@import "navbar.css";
+@import "projects.css";
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css");
+
+body {
+    box-sizing: border-box;
+}
+
+.toolKit-bg{
+    padding: 5rem;
+    background-color:#fdeff2;
+    margin-bottom: 7rem;
+}
+
+
+.headerSize{
+    margin-bottom: 4.5rem;
+}
+
+.headerColor{
+    color:#bc4e66;
+    font-weight: 300;
+}
+
+.headerColorSmall{
+    color:#bc4e66;
+    font-weight: 600;
+
+}
+
+hr{
+    background-color: #bc4e66;
+}
+
+.iconStyle{
+    color:#bc4e66;
+    /*margin-left:1.6rem;*/
+    font-size: 3.5rem;
+    font-weight: 300;
+    
+}
+
+.iconStyle:hover{
+    color: #f191a6;
+}
+
+.iconStyle:visited{
+    color: #5e2733 ;
+}
+
+.headingSize{
+    font-size: 1.1rem;
+}
+
+.textSize{
+ font-size:16px;
+}
+
+/*.img-box{
+    max-width: 100%;
+    max-height: 100%;
+    padding: 40%;
+    margin: 3rem;
+}*/
+
+.itemList{
+    list-style: square;
+    color:#5e2733;
+}
+
+
+
+.experienceHeader {
+    background-color:#fdeff2;
+}
+
+.btnSubmit {
+    background-color:#bc4e66;
+    color:#fff;
+}
+
+.btnSubmit:hover {
+    background-color:#eb6280;
+    color:#fff;
+}
+
+
+

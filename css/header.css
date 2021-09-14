@@ -1,0 +1,15 @@
+.hero-section {
+    margin-top: 3rem;
+    color:#eb6280;
+    
+}
+
+.heroImage{
+    min-width:35vw;
+    min-height:35vh;
+   /* margin-right: 4.5rem;*/
+  margin-top: 1.6rem;
+   
+}
+
+

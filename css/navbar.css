@@ -1,0 +1,17 @@
+
+.navbar {
+    background-color:#eb6280;  
+    }
+
+.navItemStyle{
+color: #fdeff2;
+}
+
+.navItemStyle:hover{
+    color: #f5b0bf;
+}
+
+.navItemStyle:visited {
+    color:#5e2733;
+
+}
